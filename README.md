@@ -2,10 +2,8 @@
                                           MAKING HEALTHCARE CHATBOT USING DIALOGFLOW
                                              Project guide : Vikash kumar singh
                                              Team leader   : Balusu Harshasri
-                                             Team Members  : Eswara rao kuna
-                                                             N.S.V Lakshmi
-                                                             T.Manikanta
-                                                             M.Mounikka
+                                             Team Members  : Lakshmi Nama
+                                                             Tatikonda Manikanta
 ABSTRACT : To start a good life health care is more important. But it is very difficult obtain the consultation with the doctor in case of any health issues.The proposed idea is to create a health care chatbot system using artificial intelligence that can diagnose the disease and provide basic details about the disease before consulting a doctor.The system provides text or voice assistants u can communicate with bot like user friendly.Chatbot will reply to related questins of healthcare.
 
 ![WhatsApp Image 2021-11-11 at 12 33 36 PM](https://user-images.githubusercontent.com/94100742/141270877-64802246-6f26-4d94-b6e8-35ec5e8f171f.jpeg)
